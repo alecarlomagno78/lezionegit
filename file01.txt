@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ciao dal ramo + Sviluppo
+=======
+ciao da ramo Sviluppo
+>>>>>>> c6bd552 (Commit da ramo Sviluppo)
