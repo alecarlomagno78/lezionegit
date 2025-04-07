@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ciao dal ramo + Sviluppo
-=======
-ciao da ramo Sviluppo
->>>>>>> c6bd552 (Commit da ramo Sviluppo)
+Modificato in locale OS92 il 07.04.2025 ore 11:28
